@@ -1,0 +1,47 @@
+{
+    "DroneMove": {
+        "checkpoints": [
+            {
+                "steps": 499998,
+                "file_path": "results\\DroneBasic\\DroneMove\\DroneMove-499998.onnx",
+                "reward": 7.5,
+                "creation_time": 1619536350.7507126
+            },
+            {
+                "steps": 999996,
+                "file_path": "results\\DroneBasic\\DroneMove\\DroneMove-999996.onnx",
+                "reward": 10.0,
+                "creation_time": 1619546725.6675696
+            },
+            {
+                "steps": 1499995,
+                "file_path": "results\\DroneBasic\\DroneMove\\DroneMove-1499995.onnx",
+                "reward": 6.363636363636363,
+                "creation_time": 1619557142.5122647
+            },
+            {
+                "steps": 1999995,
+                "file_path": "results\\DroneBasic\\DroneMove\\DroneMove-1999995.onnx",
+                "reward": 7.777777777777778,
+                "creation_time": 1619567539.3345141
+            },
+            {
+                "steps": 2000002,
+                "file_path": "results\\DroneBasic\\DroneMove\\DroneMove-2000002.onnx",
+                "reward": 8.0,
+                "creation_time": 1619567539.3754668
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000002,
+            "file_path": "results\\DroneBasic\\DroneMove.onnx",
+            "reward": 8.0,
+            "creation_time": 1619567539.3754668
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}
